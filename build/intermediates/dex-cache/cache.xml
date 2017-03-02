@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/Shader-Template-Android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4c49351884594ce585f2424affa7ad024a72231">
+        <dex dex="/Users/MartinRGB/Desktop/Github/Shader-Template-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e05f6752d2e4f5b841f3e2ddd0fa8cdf2ab3b12a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/Shader-Template-Android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/MartinRGB/Desktop/Github/Shader-Template-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_01b9d7d595d96930213c622e0feb15065af76162/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/Shader-Template-Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/MartinRGB/Desktop/Github/Shader-Template-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_a156c2d1f4f98aa52645cba7bbad6ec549ade7aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/android-prototype-learning/33.BOS_PolarCoordinates/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/MartinRGB/Desktop/Github/android-prototype-learning/33.BOS_PolarCoordinates/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_17e0d13bb80ef526a7aa1db9f397272c8f9008f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/android-prototype-learning/33.BOS_PolarCoordinates/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e02f7d58c0e4a5896d6208e7740aa12fa90575c">
+        <dex dex="/Users/MartinRGB/Desktop/Github/android-prototype-learning/33.BOS_PolarCoordinates/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_033fe2ddafdd2f2f121743bc6ac2f0bb8fef6017/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/Shader-Template-Android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/MartinRGB/Desktop/Github/Shader-Template-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_1191f0bcafc175cfede58849b0126a2c07e9ea4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/android-prototype-learning/33.BOS_PolarCoordinates/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/MartinRGB/Desktop/Github/android-prototype-learning/33.BOS_PolarCoordinates/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_4d97f04159d7d21f2b6e8fe56174fcc668778c6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/android-prototype-learning/33.BOS_PolarCoordinates/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/MartinRGB/Desktop/Github/android-prototype-learning/33.BOS_PolarCoordinates/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_ea5ecc372ce55c3a21fc20af6cc3196fa1cc28ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/Shader-Template-Android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/MartinRGB/Desktop/Github/Shader-Template-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_b4cd1ca5a347f54c382c3425b76a062ec67c19fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/android-prototype-learning/33.BOS_PolarCoordinates/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3259d38c07793f0dc72cce3a2d685412f33273fd">
+        <dex dex="/Users/MartinRGB/Desktop/Github/android-prototype-learning/33.BOS_PolarCoordinates/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0b3ecb922de4af288af0373aeaee7825b63b9ee3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/android-prototype-learning/33.BOS_PolarCoordinates/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/MartinRGB/Desktop/Github/android-prototype-learning/33.BOS_PolarCoordinates/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_96a94096081843f52808bad31fad07501a0aa43c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/Shader-Template-Android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c7b0fba997fe4b6942191580ef9d081518f9dc3">
+        <dex dex="/Users/MartinRGB/Desktop/Github/Shader-Template-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_eadece3c4155cf6a4e284127d7e8ef4450e40072/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/android-prototype-learning/33.BOS_PolarCoordinates/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/MartinRGB/Desktop/Github/android-prototype-learning/33.BOS_PolarCoordinates/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_ce7018ad0aa40afa9cf1b89e869072f8ef7c4189/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/Shader-Template-Android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/MartinRGB/Desktop/Github/Shader-Template-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_e911e872d5df30768bc8e0cffc8519f907930916/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/Shader-Template-Android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/MartinRGB/Desktop/Github/Shader-Template-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_47045904a10c586dc8bacfcb8dcbcf57e68d33f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/MartinRGB/Desktop/Github/android-prototype-learning/33.BOS_PolarCoordinates/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_41aee33608dcaa418f224b5d863a23cff4b97e57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/android-prototype-learning/33.BOS_PolarCoordinates/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/MartinRGB/Desktop/Github/android-prototype-learning/33.BOS_PolarCoordinates/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_46cba60f9bc55d435a4598e08d02ab9a12e89e08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/Shader-Template-Android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/MartinRGB/Desktop/Github/Shader-Template-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_03a38a1f5281cd09d70e605f4b2fca86a8712476/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/Shader-Template-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/MartinRGB/Desktop/Github/Shader-Template-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_adc202a2be3250f1a1e704a586e54c3cf34e6f27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/android-prototype-learning/33.BOS_PolarCoordinates/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/MartinRGB/Desktop/Github/android-prototype-learning/33.BOS_PolarCoordinates/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_5a079c3f10698abd9ac9ce123d72e777f42bb525/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/Shader-Template-Android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/MartinRGB/Desktop/Github/Shader-Template-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_edba8be4d41b4d36981932f7b4d353186ebff997/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/android-prototype-learning/33.BOS_PolarCoordinates/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/MartinRGB/Desktop/Github/android-prototype-learning/33.BOS_PolarCoordinates/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_5ba85f8bc251766899d42c6f0949fe306cf541dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/.gradle/caches/modules-2/files-2.1/com.facebook.rebound/rebound/0.3.8/c8b90640dddaf1e7ad75d7cb00b09a44b3788f7e/rebound-0.3.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c8b90640dddaf1e7ad75d7cb00b09a44b3788f7e">
+        <dex dex="/Users/MartinRGB/Desktop/Github/android-prototype-learning/33.BOS_PolarCoordinates/app/build/intermediates/transforms/dex/debug/folders/1000/10/rebound-0.3.8_d34a41269c1d5ff4639bfd2688957821237d8c46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/android-prototype-learning/33.BOS_PolarCoordinates/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/MartinRGB/Desktop/Github/android-prototype-learning/33.BOS_PolarCoordinates/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_28fb21d90091b474bb2cdeeea81c3a7da6ecdb92/classes.dex" />
+    </item>
+
+</items>
